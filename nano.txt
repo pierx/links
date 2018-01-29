@@ -1,0 +1,32 @@
+- Android Framework
+- Calculator
+- Contacts
+- Dialer
+- Document UI
+- Gallery
+- Gboard
+- Gmail
+- Google Authenticator
+- Google Calculator
+- Google Calendar
+- Google Clock
+- Google Contacts 
+- Google Inbox
+- Google Messaging
+- Google Phone
+- Google Photos
+- Google Plus
+- Instagram
+- Keyboard
+- Launcher3
+- Magisk Manager
+- Messaging
+- PlayServices
+- PlayStore
+- Playmusic
+- Settings
+- Substratum 
+- SuperSU
+- System UI
+- WhatsApp
+- Youtube
