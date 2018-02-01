@@ -1,32 +1,70 @@
 - Android Framework
+- Bluetooth
+- Browser (aosp)
 - Calculator
+- Calendar (aosp)
+- CellBroadcast
+- Clock (aosp)
 - Contacts
+- DU About
+- DU CalendarWidget
+- DU Tweaks
+- DU Updater
 - Dialer
-- Document UI
+- Documents UI (Files)
 - Gallery
-- Gboard
 - Gmail
+- Gms
 - Google Authenticator
 - Google Calculator
 - Google Calendar
 - Google Clock
 - Google Contacts 
+- Google Dialer
+- Google Drive
 - Google Inbox
+- Google Keep
 - Google Messaging
-- Google Phone
 - Google Photos
+- Google Play Music
+- Google Play Store
 - Google Plus
+- Google Translate
 - Instagram
-- Keyboard
+- KLWP
+- KWGT
 - Launcher3
-- Magisk Manager
+- Media Providers
 - Messaging
-- PlayServices
-- PlayStore
-- Playmusic
+- Mms (aosp)
+- MusicFX
+- Nova Launcher
+- Omni Clock
+- Omni Switch
+- Oneplus Backup
+- Oneplus Calculator
+- Oneplus DeskClock
+- Oneplus Firemanager
+- Oneplus Launcher
+- Oneplus Note
+- Oneplus Security
+- PackageInstaller
+- Samsung Browser 
+- Samsung Clock
+- Samsung Contacts
+- Samsung DeviceMaintenance
+- Samsung Messaging
+- Samsung MyFiles
+- Samsung SmartMirroring
+- Samsung SoundAlive
+- Samsung Soundpicker
+- Samsung ThemeStore
+- Samsung fwk
 - Settings
 - Substratum 
-- SuperSU
 - System UI
+- Telecom
+- VLC
 - WhatsApp
+- XDA Labs
 - Youtube
