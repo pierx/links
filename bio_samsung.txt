@@ -1,17 +1,11 @@
 - Android Framework
 - Bluetooth
-- Browser (aosp)
 - Calculator
-- Calendar (aosp)
 - CellBroadcast
-- Clock (aosp)
+- Clock
 - Contacts
-- DU About
-- DU CalendarWidget
-- DU Tweaks
-- DU Updater
 - Dialer
-- Documents UI (Files)
+- Documents UI 
 - Gallery
 - Gmail
 - Gms
@@ -33,25 +27,13 @@
 - Instagram
 - KLWP
 - KWGT
-- Launcher3
 - Media Providers
 - Messaging
-- Mms (aosp)
-- MusicFX
 - Nova Launcher
-- Omni Clock
-- Omni Switch
-- Oneplus Backup
-- Oneplus Calculator
-- Samsung Calendar
-- Oneplus DeskClock
-- Oneplus Firemanager
-- Oneplus Launcher
-- Oneplus Note
-- Oneplus Security
 - PackageInstaller
 - Samsung Browser 
 - Samsung Clock
+- Samsung Calendar
 - Samsung Contacts
 - Samsung DeviceMaintenance
 - Samsung Messaging
@@ -67,5 +49,4 @@
 - Telecom
 - VLC
 - WhatsApp
-- XDA Labs
 - Youtube
