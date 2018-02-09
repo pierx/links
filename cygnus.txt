@@ -1,1 +1,54 @@
 - Android Framework
+- Bluetooth
+- Calculator
+- CellBroadcast
+- Clock
+- Contacts
+- Dialer
+- Documents UI 
+- Gallery
+- Gmail
+- Google Authenticator
+- Google Calculator
+- Google Calendar
+- Google Clock
+- Google Contacts 
+- Google Dialer
+- Google Drive
+- Google Inbox
+- Google Keep
+- Google Messaging
+- Google Photos
+- Google Play Music
+- Google Play Store
+- Google Plus
+- Google TTS
+- Instagram
+- KLWP
+- KWGT
+- Media Providers
+- Messaging
+- Nova Launcher
+- PackageInstaller
+- Samsung AOD
+- Samsung Browser 
+- Samsung Clock
+- Samsung Calendar
+- Samsung Contacts
+- Samsung DeviceMaintenance
+- Samsung Messaging
+- Samsung MyFiles
+- Samsung SmartMirroring
+- Samsung SoundAlive
+- Samsung Soundpicker
+- Samsung ThemeStore
+- Samsung fwk
+- Settings
+- Settings Icons
+- Substratum 
+- System UI
+- Status Bar
+- Telecom
+- VLC
+- WhatsApp
+- Youtube
