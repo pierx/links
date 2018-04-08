@@ -1,1 +1,65 @@
-- Android Framework
+• Android Framework
+• Browser
+• BukaLapak
+• Calculator AOSP
+• Calendar AOSP
+• Clock
+• Contacts
+• Dialer
+• Documents UI (Files)
+• Gallery
+• Gmail
+• Google Authenticator
+• Google Books
+• Google Calculator
+• Google Calendar
+• Google Clock
+• Google Contacts 
+• Google Dialer
+• Google Drive
+• Google Duo
+• Google Inbox
+• Google Hangouts
+• Google Keep
+• Google Messaging
+• Google Translate
+• Google Maps
+• Google Photos
+• Google Play Music
+• Google Play Store
+• Google Play Games
+• Google Play Services
+• Google Plus
+• Greenify
+• Launcher3
+• Media Providers
+• Messaging
+• Microsoft Outlook
+• Microsoft OneNote
+• Mozilla Firefox
+• MusicFX
+• Nova Launcher
+• Omni Clock
+• Omni Switch
+• PackageInstaller
+• Samsung Browser 
+• Samsung Clock
+• Samsung Calendar
+• Samsung Contacts
+• Samsung DeviceMaintenance
+• Samsung Messaging
+• Samsung MyFiles
+• SuperSU
+• Settings
+• Substratum 
+• System UI 
+• StatusBar
+• NavigationBar
+• Telecom
+• Tokopedia
+• Unified Remote
+• Unified Remote Pro
+• VLC
+• WhatsApp
+• XDA Labs
+• YouTube
