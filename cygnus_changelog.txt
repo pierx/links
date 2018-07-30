@@ -1,0 +1,24 @@
+1046
+Major update
+- Settings gradient colors are now controlled from Android System 
+overlay for Oreo while for nougat the option remains on the Settings 
+overlay.
+- Default Settings background set to half transparent. Options for 
+solid background added.
+- SystemUI. Fixed color accent for quick panel.
+- Accents added on Android overlay.
+- Minor fixes to resolver (Share dialog)
+- Minor improvements on the framework.
+
+1000
+Fixes and updates to the following overlays
+- Settings. Fixed Transparency options.
+- Settings. Added solid background color options
+- Settings. Added icon accent follow framework options
+- SystemUI QS changes. Transparent as default QS background (Solid as options)
+- StatusBar. AOSP icons as default (Cygnus styles as options)
+- Added background option to Contacts and Dialer
+- WhatsApp 2.18.217
+- YouTube 13.27.54
+- Google Calendar 5.8.40
+- Added Google News 5.2.0
