@@ -1,85 +1,85 @@
 5.1718
-- New dialog window. Added Do not show again checkbox.
-- Added Samsung Circle Edition on dropdown menu.
-- Added bunch of new overlays for that circle option.
-- Added transparency option for Settings and SystemUI (QS/QuickPanel) on Samsung.
-- Various minor fix on some overlays.
+• New dialog window. Added Do not show again checkbox.
+• Added Samsung Circle Edition on dropdown menu.
+• Added bunch of new overlays for that circle option.
+• Added transparency option for Settings and SystemUI (QS/QuickPanel) on Samsung.
+• Various minor fix on some overlays.
 
 4.1259
 Fixes and updates to the following overlays
-- WhatsApp 2.18.217
-- YouTube 13.27.54
-- Google Calendar 5.8.40
-- Google News 5.2.0
-- Various minor fixes
+• WhatsApp 2.18.217
+• YouTube 13.27.54
+• Google Calendar 5.8.40
+• Google News 5.2.0
+• Various minor fixes
 
 3.1238
-- Added Color Options to many overlay
-- Update Instagram 48.0 overlay
-- Update WhatsApp 2.18.177
-- Update Samsung Message options
-- Various minor improvements
+• Added Color Options to many overlay
+• Update Instagram 48.0 overlay
+• Update WhatsApp 2.18.177
+• Update Samsung Message options
+• Various minor improvements
 
 3.1227
-- Updated Google+, YouTube, Drive, Google Contacts overlays to support the latest version.
-- Added Background Color options [13]
-- Added new color Accent [12]
-- Added Circle Icon option on Settings
-- Added Samsung Message version 5.0 option
-- Fixes Samsung Settings overlay
-- Various minor fixes
-- Under the hood improvements.
+• Updated Google+, YouTube, Drive, Google Contacts overlays to support the latest version.
+• Added Background Color options [13]
+• Added new color Accent [12]
+• Added Circle Icon option on Settings
+• Added Samsung Message version 5.0 option
+• Fixes Samsung Settings overlay
+• Various minor fixes
+• Under the hood improvements.
 
 2.1175
-- Updated Google+, YouTube, Drive, Google Contacts to the latest version.
-- Fixes Samsung Framework, Samsung Settings, Samsung Contacts, Samsung Messenger, Google Keep.
-- Under the hood improvements.
+• Updated Google+, YouTube, Drive, Google Contacts to the latest version.
+• Fixes Samsung Framework, Samsung Settings, Samsung Contacts, Samsung Messenger, Google Keep.
+• Under the hood improvements.
 
 2.1167
-- Updated Google+, YouTube, Drive, Google Contacts to the latest version.
-- Fixes Samsung Framework, Samsung Settings, Samsung Contacts, Samsung Messenger, Google Keep.
-- Under the hood improvements.
+• Updated Google+, YouTube, Drive, Google Contacts to the latest version.
+• Fixes Samsung Framework, Samsung Settings, Samsung Contacts, Samsung Messenger, Google Keep.
+• Under the hood improvements.
 
 2.1145
-- Google+ 10.5
-- Gmail 8.4.8
-- Drive 2.18.152
-- WhatsApp 2.18.122
+• Google+ 10.5
+• Gmail 8.4.8
+• Drive 2.18.152
+• WhatsApp 2.18.122
 
 2.1076
-- Substratum
-- Gmail
-- Google+ 10.4
-- Various minor fixes to framework and overlays
+• Substratum
+• Gmail
+• Google+ 10.4
+• Various minor fixes to framework and overlays
 
 2.1037
 Major update!
-- Merged Oreo 8.0 and 8.1 option
-- Gmail, Google Phone, Google Calculator, AOSP Contacts. All black now.
-- WhatsApp. Latest stable version. 
-- Google Contacts. Updated to support version 2.6.4
-- Google+ v.10.3.0
-- PlayStore. Latest version
-- Minor improvements to Settings, Substratum. Google Messaging. PlayMusic, Google Deskclock. AOSP Deskclock, YouTube.
-- Add welcome message and info when opening the theme.
+• Merged Oreo 8.0 and 8.1 option
+• Gmail, Google Phone, Google Calculator, AOSP Contacts. All black now.
+• WhatsApp. Latest stable version. 
+• Google Contacts. Updated to support version 2.6.4
+• Google+ v.10.3.0
+• PlayStore. Latest version
+• Minor improvements to Settings, Substratum. Google Messaging. PlayMusic, Google Deskclock. AOSP Deskclock, YouTube.
+• Add welcome message and info when opening the theme.
 
 1.944
-- Updated G+, WhatsApp, Instagram. Google Drive and Play Store overlays
+• Updated G+, WhatsApp, Instagram. Google Drive and Play Store overlays
 
 1.934
-- Update G+
-- Fix Nougat Dialer
-- Fix Samsung Message
+• Update G+
+• Fix Nougat Dialer
+• Fix Samsung Message
 
 1.903
 Various fix and improvements to these overlays
-- PlayStore
-- Drive
-- Google Messages
-- PlayStore overlay
-- Google+
-- package installer
-- Samsung Messages
-- WhatsApp
-- YouTube
-- Substratum
+• PlayStore
+• Drive
+• Google Messages
+• PlayStore overlay
+• Google+
+• package installer
+• Samsung Messages
+• WhatsApp
+• YouTube
+• Substratum
