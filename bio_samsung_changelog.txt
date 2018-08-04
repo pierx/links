@@ -1,52 +1,71 @@
-- Android Framework
-- Bluetooth
-- Calculator
-- CellBroadcast
-- Clock
-- Contacts
-- Dialer
-- Documents UI 
-- Gallery
-- Gmail
-- Gms
-- Google Authenticator
-- Google Calculator
-- Google Calendar
-- Google Clock
-- Google Contacts 
-- Google Dialer
-- Google Drive
-- Google Inbox
-- Google Keep
-- Google Messaging
-- Google Photos
-- Google Play Music
-- Google Play Store
-- Google Plus
-- Google Translate
-- Instagram
-- KLWP
-- KWGT
-- Media Providers
-- Messaging
-- Nova Launcher
-- PackageInstaller
-- Samsung Browser 
-- Samsung Clock
-- Samsung Calendar
-- Samsung Contacts
-- Samsung DeviceMaintenance
-- Samsung Messaging
-- Samsung MyFiles
-- Samsung SmartMirroring
-- Samsung SoundAlive
-- Samsung Soundpicker
-- Samsung ThemeStore
-- Samsung fwk
-- Settings
-- Substratum 
-- System UI
-- Telecom
-- VLC
-- WhatsApp
-- Youtube
+8.739
+Various fixes and improvements to the following overlays.
+• Settings. Fixed Transparency options.
+• Added version options for Samsung Messages
+• Custom spinner
+• Settings
+• WhatsApp 2.18.217
+• YouTube 13.27.54
+• Google Calendar 5.8.40
+• Google News 5.2.0
+• Google Contacts
+
+8.682
+Updated overlays
+• WhatsApp 2.18.217
+• YouTube 13.27.54
+• Google News 5.2.0
+• Settings
+• Custom spinner (Oreo)
+• Various minor fix
+
+8.677
+• Added Circle background option
+• Added accent option to Google News
+• Fixes Google Contacts
+• Various fix to overlays default accent options
+• Move statusBar options
+• Minor fix to Samsung Browser
+• Minor adjustment to the welcome dialog
+
+8.671
+Fixes for Instagram, YouTube and WhatsApp overlays
+
+8.667 
+Fixes and updates to the following overlays
+• Google Contacts 2.8.4
+• Google+ 10.8
+• WhatsApp 2.18.191
+• Instagram 50.1
+• Added Google News
+
+8.665
+Fixes and updates to the following overlays
+• Google Contacts 2.8.4
+• Google+ 10.8
+• WhatsApp 2.18.191
+• Instagram 50.1
+• Added Google News
+
+8.659
+• Update Google Drive 2.18.192
+• Update Google+ 10.6.0
+• Update Google Contacts 2.7.3
+• Update Gmail 8.5.6
+• Update YouTube 13.19.58
+• Minor fix to Settings, SystemUI
+• Add bloody red to Instagram
+• Fix Samsung Message
+
+8.631
+Major update
+• Various fix on Settings overlay (text description etc)
+• Accented QS icon on Oreo
+• Separate StatusBar icon option 
+• Updated Gmail 8.4.8
+• YouTube
+• Google+
+• Overhaul Google Keep
+• Minor fix to Samsung Calendar
+• Updated framework and SystemUI
+• Under the hood improvements :)
