@@ -1,4 +1,9 @@
-5.1718
+5.1350
+• Improve PlayStore overlays
+• Updated YouTube 13.30.56
+• Minor fix to fwk
+
+5.1318
 • New dialog window. Added Do not show again checkbox.
 • Added Samsung Circle Edition on dropdown menu.
 • Added bunch of new overlays for that circle option.
