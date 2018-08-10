@@ -1,3 +1,26 @@
+========================
+CHANGELOG
+========================
+3.2121
+• Improved PlayStore overlay
+• Fixed YouTube 13.30.56
+• Minor fix on Framework
+• Improve welcome dialog
+
+Previously
+Fixes and updates to the following overlays
+• Updated WhatsApp 2.18.230
+• Google Phone v22
+• New welcome dialog
+• Added aex icons on Settings
+• PlayStore header to black
+• Launcher3 fix
+• Google Calendar
+
+
+========================
+OVERLAYS
+========================
 • Android Framework
 • Bluetooth
 • Browser
