@@ -1,6 +1,13 @@
 ====================
 CHANGELOG
 ====================
+8.807
+• Added Google Task
+• Added Google Contacts version 3.0.0 with option
+• Fixes Google Dialer v.22.0
+• Fixes Google News 5.3.0
+• Welcome dialog improvements
+
 8.762
 Various fixes and improvements to the following overlays.
 • PlayStore 
