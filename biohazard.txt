@@ -1,6 +1,16 @@
 ========================
 CHANGELOG
 ========================
+3.2136
+• Updated WhatsApp 2.18.248
+• Added Google Contacts version 3.0.0 with option
+• Fixes Google Dialer v.22.0
+• Fixes Google News 5.3.0
+• Added Google Task
+• Fixes Google Inbox
+• Welcome dialog improvements
+• Various minor fixes
+
 3.2121
 • Improved PlayStore overlay
 • Fixed YouTube 13.30.56
