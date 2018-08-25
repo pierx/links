@@ -1,6 +1,16 @@
 =======================
 1. CHANGELOG
 =======================
+5.1370
+• Android Pie support
+• Added Google Tasks
+• Updated Google Contacts 3.0 with option
+• Updated Google News
+• Fixes Google Inbox
+• Updated Google Phone v22
+• Fix accent on some overlay
+• Revamp welcome dialog
+
 5.1350
 • Improve PlayStore overlays
 • Updated YouTube 13.30.56
