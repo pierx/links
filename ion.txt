@@ -1,3 +1,42 @@
+========================
+CHANGELOG
+=========================
+0.234
+• Initial Android Pie support
+• Bug fixes and improvements
+• Added Google Tasks
+
+0.195
+• Fixes Settings overlay
+• Added more overlays
+• PlayGames
+• PlayBook
+• Firefox
+
+Previous changelog
+Added bunch of new overlays:
+• Microsoft Outlook 
+• VLC 
+• Tapatalk 
+• Google Maps 
+• Google Duo 
+• Greenify 
+• Unified Remote Free 
+• Unified Remote Pro 
+• Screener 
+• Samsung Oreo framework 
+• Samsung Internet Browser 
+• Samsung Calendar 
+• Samsung MyFiles 
+• Samsung Clock 
+• Samsung Device Management 
+• Samsung Calculator 
+• Supersu 
+• New Prevew image
+
+========================
+OVERLAYS
+=========================
 • Android Framework
 • Browser
 • BukaLapak
