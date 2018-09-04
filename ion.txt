@@ -61,6 +61,7 @@ OVERLAYS
 • Google Hangouts
 • Google Keep
 • Google Messaging
+• Google Tasks
 • Google Translate
 • Google Maps
 • Google Photos

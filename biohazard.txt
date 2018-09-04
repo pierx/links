@@ -1,6 +1,15 @@
 ========================
 CHANGELOG
 ========================
+3.2200
+• Initial Android Pie support
+• New looks for Settings and QuickSettings for Pie
+• Fixes Google Message v25
+• Fixes Google Dialer v23
+• Updated YouTube overlay
+• Added WellBeing
+• Improvements on various overlay.
+
 3.2136
 • Updated WhatsApp 2.18.248
 • Added Google Contacts version 3.0.0 with option
