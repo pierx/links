@@ -1,6 +1,25 @@
 ====================
 CHANGELOG
 ====================
+8.838
+• Updated YouTube to 13.36.50
+• Updated WhatsApp to 2.18.277
+• Updated Google News to 5.4.0
+• Updated Google Messaging to 3.5.0
+• Fixes Samsung Gallery 5.4.07
+
+8.828
+• Updated YouTube to 13.35.51
+• Updated WhatsApp to 2.18.267
+• Updated Gmail to 8.8.26
+• Contact 3.0 as default
+• Update Settings for 8.1
+• Fixes Inbox
+• Change default accent on some overlays
+• Updated welcome dialog
+• Various minor fixes
+• Fixes to WhatsApp overlay
+
 8.807
 • Added Google Task
 • Added Google Contacts version 3.0.0 with option

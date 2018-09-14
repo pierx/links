@@ -1,6 +1,24 @@
 =======================
 1. CHANGELOG
 =======================
+Latest
+5.1403
+- Updated WhatsApp to 2.18.277
+- Updated Google News to 5.4.0
+- Updated Google Messaging to 3.5.0
+- Updated GMail to 8.8.26
+- Updated YouTube to 13.36.50
+- Fixes Google Phone overlay
+- Added Samsung Gallery 5.4.07
+- Sayonara Inbox
+- Fixes welcome dialog
+
+Previously
+- Fixes YouTube
+- Fixes Google Dialer
+- Google Contact latest as default
+- Settings accent fix
+
 5.1370
 • Android Pie support
 • Added Google Tasks
