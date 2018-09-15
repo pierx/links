@@ -1,3 +1,37 @@
+========================
+CHANGELOG
+========================
+3.13
+- Revert app icon
+- Updated WhatsApp to 2.18.277
+- Updated Google News to 5.4.0
+- Updated Google Messaging to 3.5.0
+- Updated Gmail to 8.8.26
+- Updated YouTube to 13.36.50
+- Minor fix to Oreo framework
+- Various minor fixes
+
+3.0.1333
+- Android Pie Support!
+- Updated WhatsApp overlays
+- Updated Google Phone v23
+- Updated Google Contacts 3.0.6
+- Updated Google Inbox
+- Updated Google Magazines
+- Updated YouTube
+- New heroimage
+- Various minor improvements
+- Adjustment in Oreo and Nougat framework
+- Fixes Launcher 3
+- Fixes Google Phone
+- Fixes YouTube
+- Fixes PlayStore overlay
+- Google Contacts 3.0 as default
+- Revamp welcome dialog
+
+========================
+OVERLAYS LIST
+========================
 • Android Framework
 • Bluetooth
 • Browser
