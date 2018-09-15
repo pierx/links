@@ -1,6 +1,14 @@
 ========================
 CHANGELOG
 ========================
+3.2238
+• Updated YouTube to 13.36.50
+• Updated WhatsApp to 2.18.277
+• Updated GMail to 8.8.26
+• Updated Google News to 5.4.0
+• Fixes Android Pie accent options
+• Various minor fixes
+
 3.2216
 • Custom StatusBar on Pie
 • Minor fix on WhatsApp
