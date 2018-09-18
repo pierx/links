@@ -1,7 +1,28 @@
 ==============
 1. CHANGELOG
 ==============
-1046
+11.1088
+- New background color setup
+- Revert QS background to solid color
+- Change many overlay default background
+- Various minor fixes
+- Updated WhatsApp to 2.18.277
+- Updated Google News to 5.4.0
+- Updated Google Messaging to 3.5.0
+- Updated GMail to 8.8.26
+- Updated YouTube to 13.36.50
+- Fixes Samsung Gallery 5.4.07
+
+10.1072
+- Updated WhatsApp overlays
+- Updated Google Phone v23
+- Updated Google Contacts 3.0.6
+- Updated Google Inbox
+- Updated Google Magazines
+- Updated YouTube
+- Various minor improvements
+
+10.1046
 Major update
 - Settings gradient colors are now controlled from Android System 
 overlay for Oreo while for nougat the option remains on the Settings 
