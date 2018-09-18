@@ -1,7 +1,12 @@
 ========================
 CHANGELOG
 ========================
-3.13
+3.1350
+- Change default accent and fix various overlay accent
+- Minor fix to PackageInstaller, NavBar and Substratum overlay 
+- Notification options
+
+3.1342
 - Revert app icon
 - Updated WhatsApp to 2.18.277
 - Updated Google News to 5.4.0
