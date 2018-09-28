@@ -1,6 +1,13 @@
 ========================
 CHANGELOG
 ========================
+3.2280
+• Updated GMail to 8.9.9
+• Fixes SystemUI on Pie
+• Updated Google Calculator to v7.5
+• Minor fix to Substratum overlay
+• New welcome dialog layout
+
 3.2238
 • Updated YouTube to 13.36.50
 • Updated WhatsApp to 2.18.277
@@ -12,7 +19,7 @@ CHANGELOG
 3.2216
 • Custom StatusBar on Pie
 • Minor fix on WhatsApp
-• Alpha support for OOS
+• Moar OxygenOS support
 
 3.2200
 • Initial Android Pie support
