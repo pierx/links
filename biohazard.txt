@@ -1,6 +1,24 @@
 ========================
 CHANGELOG
 ========================
+4.2901
+Major update
+• Added Google Translate
+• Added Google Duo
+• Added Pixel Launcher
+• Added Trebuchet Launcher
+• Added Magisk (Enable Dark Mode)
+• Fixes AOSP Messaging navBar
+• Fixes SystemUI navBar on Light
+• Fixes Google Messaging 3.6 (Enable Dark Mode)
+• Fixes Google Calculator 7.5
+• Fixes Google Contact 3.0.7
+• Fixes Google Dialer v24
+• Fixes Dialog
+• Fixes ROM icons settings
+• Fixes WellBeing
+• Fixes Gmail 8.9.9
+
 3.2280
 • Updated GMail to 8.9.9
 • Fixes SystemUI on Pie
@@ -83,6 +101,7 @@ OVERLAYS
 • Google Clock
 • Google Contacts
 • Google Dialer
+• Google Duo
 • Google Drive
 • Google Inbox
 • Google Keep
@@ -95,6 +114,7 @@ OVERLAYS
 • KLWP
 • KWGT
 • Launcher3
+• Magisk
 • Media Providers
 • Messaging
 • Mms
@@ -111,12 +131,14 @@ OVERLAYS
 • Oneplus Note
 • Oneplus Security
 • PackageInstaller
+• Pixel Launcher
 • Settings
 • Substratum
 • System UI
 • StatusBar
 • NavigationBar
-• Telecom
+• Translate
+• Trebuchet
 • VLC
 • WhatsApp
 • XDA Labs
