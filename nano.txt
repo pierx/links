@@ -2,6 +2,18 @@
 1. CHANGELOG
 =======================
 Latest
+6.1419
+- Updated WhatsApp to 2.18.306
+- Updated Google Calculator v7.5
+- Added Nexus Launcher
+- Added WellBeing
+- Added Trebuchet Launcher
+- Added Magisk
+- Fixes AOSP Messaging
+- Fixes Settings
+- Fixes Gmail
+- Fixes Package Installer
+
 5.1403
 - Updated WhatsApp to 2.18.277
 - Updated Google News to 5.4.0
@@ -147,7 +159,6 @@ Various fix and improvements to these overlays
 • Google Contacts 
 • Google Dialer
 • Google Drive
-• Google Inbox
 • Google Keep
 • Google Messaging
 • Google Photos
@@ -159,11 +170,13 @@ Various fix and improvements to these overlays
 • KLWP
 • KWGT
 • Launcher3
+• Magisk
 • Media Providers
 • Messaging
 • Mms (aosp)
 • MusicFX
 • Nova Launcher
+• Nexus Launcher
 • Omni Clock
 • Omni Switch
 • Oneplus Backup
@@ -190,7 +203,9 @@ Various fix and improvements to these overlays
 • Substratum 
 • System UI
 • Telecom
+• Trebuchet
 • VLC
 • WhatsApp
+• WellBeing
 • XDA Labs
 • YouTube
