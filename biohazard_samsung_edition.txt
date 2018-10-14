@@ -1,6 +1,22 @@
 ====================
 CHANGELOG
 ====================
+T.880
+• Added Google Duo
+• Added Google Translate
+• Added Magisk (Enable Dark Mode)
+• Optimize Instagram
+• Fixes WhatsApp to 2.18.306
+• Fixes Google Messaging 3.6 (Enable Dark Mode)
+• Fixes Google Calculator 7.5
+• Fixes Google Contact 3.0.7
+• Fixes Google Dialer v24
+• Fixes Gmail 8.9.23
+• Fixes Google Wallpaper
+• Fixes Substratum overlay
+• Fixes fwk
+• Various minor fixes and improvements
+
 8.838
 • Updated YouTube to 13.36.50
 • Updated WhatsApp to 2.18.277
