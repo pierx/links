@@ -1,6 +1,18 @@
 ========================
 CHANGELOG
 ========================
+3.1399
+- Fixes WhatsApp to 2.18.306
+- Fixes AOSP Messaging navBar
+- Fixes Google Messaging 3.6 (Enable Dark Mode)
+- Fixes Google Calculator 7.5
+- Fixes Google Contact 3.0.7
+- Fixes Google Dialer v24
+- Fixes WellBeing
+- Added Magisk (Enable Dark Mode)
+- Added Trebuchet Launcher
+- Added Pixel Launcher
+
 3.1350
 - Change default accent and fix various overlay accent
 - Minor fix to PackageInstaller, NavBar and Substratum overlay 
