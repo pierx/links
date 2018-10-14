@@ -1,6 +1,19 @@
 ==============
 1. CHANGELOG
 ==============
+A.1161
+- Optimize Instagram overlay
+- Updated WhatsApp to 2.18.306
+- Updated Google Calculator v7.5
+- Updated Google Phone to 24
+- Fixes Messenger 3.5
+- Fixes Gmail 8.9.23
+- Fixes Package Installer
+- Added Arc background option
+- Minor fix to SystemUI
+- New welcome dialog
+- Various minor fixes and improvements
+
 11.1088
 - New background color setup
 - Revert QS background to solid color
