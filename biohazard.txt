@@ -1,6 +1,36 @@
 ========================
 CHANGELOG
 ========================
+Latest version
+B.2366
+Major update
+Theme rebuild, various fixes and improvements, optimized overall theme size.
+
+Fixes 
+• Google Play
+• SystemUI navBar on Light
+• Google Messaging 3.6 (Enable Dark Mode)
+• Google Calculator 7.5
+• Google Contact 3.0.7
+• Google Dialer v24
+• Dialog
+• AOSP Contacts
+• AOSP Messaging navBar
+• ROM icons settings
+• WellBeing
+• Gmail 8.9.23
+
+Improvements
+• Instagram
+• Google Translate
+• Google Duo
+• Pixel Launcher
+• Trebuchet Launcher
+• Magisk.
+
+Changelog
+https://kutt.it/biohazard
+
 4.2901
 Major update
 • Added Google Translate
