@@ -1,6 +1,15 @@
 ========================
 CHANGELOG
 ========================
+G.1435
+Major update
+- Fixes Google Keep Notes 5.0
+- Fixes Google News (Enable Dark Mode)
+- Added Google Duo
+- Default statusBar to Cyberpunk
+- Various fixes and improvements to
+(Google Play, Google Tasks, YouTube, Hangouts, Gmail, Instagram, Substratum)
+
 3.1399
 - Fixes WhatsApp to 2.18.306
 - Fixes AOSP Messaging navBar
