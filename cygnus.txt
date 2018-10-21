@@ -1,6 +1,13 @@
 ==============
 1. CHANGELOG
 ==============
+A.1313
+• Fixes Google Keep Notes
+• Fixes Google+ 10.17
+• Fixes Google Tasks
+• Various minor fixes and improvements to
+(Android System, Settings, Google Play, Instagram)
+
 A.1161
 - Optimize Instagram overlay
 - Updated WhatsApp to 2.18.306
