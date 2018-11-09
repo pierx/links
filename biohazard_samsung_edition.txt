@@ -1,6 +1,33 @@
 ====================
 CHANGELOG
 ====================
+T.98x
+- Oreo and Nougat options 
+(Make sure to select this, clean all overlay and reapply recommended)
+- Improvements on Android System overlay (new switches!)
+- Added more Samsung apps (See changelogs)
+- Various fixes and improvements
+
+New overlays added!
+• Samsung Video
+• Money Manager
+• Google Drive
+• MX Player
+• Clipboard
+• Media Providers
+• ClockFace
+• Edge Screen
+• Smart Capture
+• Dual Messenger
+• Goodlock
+• LockStar
+• QuickStar
+• Samsung Cloud
+• Samsung Capture
+• Task Changer
+• Mobile network
+• SmartThings (Notification)
+
 T.880
 • Added Google Duo
 • Added Google Translate

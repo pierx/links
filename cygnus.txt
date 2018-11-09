@@ -1,6 +1,35 @@
 ==============
 1. CHANGELOG
 ==============
+A.1337-C
+Various fixes and improvements on 
+• Android System 
+• Settings 
+• SystemUI overlay
+• WhatsApp
+• Gmail
+• Keep Notes 
+
+New overlays added!
+• Samsung Video
+• Money Manager
+• Google Drive
+• MX Player
+• Clipboard
+• Media Providers
+• ClockFace
+• Edge Screen
+• Smart Capture
+• Dual Messenger
+• Goodlock
+• LockStar
+• QuickStar
+• Samsung Cloud
+• Samsung Capture
+• Task Changer
+• Mobile network
+• SmartThings (Notification)
+
 A.1313
 • Fixes Google Keep Notes
 • Fixes Google+ 10.17

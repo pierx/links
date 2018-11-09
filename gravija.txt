@@ -1,6 +1,16 @@
 ========================
 CHANGELOG
 ========================
+G.1443
+New
+• Added Money Manager
+• Added Google Drive
+• Added MX Player
+
+Fixes
+• WhatsApp 2.18.327
+• Minor fix to Keep, Tasks and G+
+
 G.1435
 Major update
 - Fixes Google Keep Notes 5.0

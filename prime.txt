@@ -1,6 +1,16 @@
 ========================
 CHANGELOG
 ========================
+X.1995
+New
+• Added Money Manager
+• Added Google Drive
+• Added MX Player
+
+Fixes
+• WhatsApp 2.18.327
+• Minor fix to Keep, Tasks and G+
+
 X.1985
 • New default NavBar and statusBar icon (SystemUI)
 • Fixes Android & SystemUI overlay for Oreo and Pie
