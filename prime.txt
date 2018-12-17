@@ -1,6 +1,10 @@
 ========================
 CHANGELOG
 ========================
+X.1996
+Fixes
+• Google Keep
+
 X.1995
 New
 • Added Money Manager
