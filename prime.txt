@@ -2,15 +2,21 @@
 CHANGELOG
 ========================
 X.1996
-Fixes
+Updated
+• WhatsApp
 • Google Keep
+• Google Phone
+• Google Calculator
+• Google Translate
+• Google Wallpaper
+• Google Plus
+• Various minor fixes
 
 X.1995
 New
 • Added Money Manager
 • Added Google Drive
 • Added MX Player
-
 Fixes
 • WhatsApp 2.18.327
 • Minor fix to Keep, Tasks and G+

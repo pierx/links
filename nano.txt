@@ -2,6 +2,11 @@
 1. CHANGELOG
 =======================
 Latest
+Fixes
+- WhatsApp
+- Google Keep
+- QuickStep for Pie
+
 6.1419
 - Updated WhatsApp to 2.18.306
 - Updated Google Calculator v7.5
