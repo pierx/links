@@ -1,6 +1,166 @@
 ====================
 CHANGELOG
 ====================
+RE.1146
+• New custom battery icon for Samsung Oreo!
+• Added spinner options
+• New Windows spinner animation
+• New Status Bar notification animation! Available on this apps
+- PlayStore
+- Google Calendar
+- Gmail
+- Spotify
+- Instagram
+- WhatsApp
+- Telegram
+- Substratum
+
+Fixes
+• PlayStore
+• G+
+• Google Contacts 3.4.6
+• YouTube 
+• Samsung theme store
+• Battery icon as options now
+• Moved the colored statusBar options
+• Various minor fixes & improvements
+
+RE.1145
+• New custom battery icon for Samsung Oreo!
+• Added spinner options
+• New Windows spinner animation
+• New Status Bar notification animation! Available on this apps
+- PlayStore
+- Google Calendar
+- Gmail
+- Spotify
+- Instagram
+- WhatsApp
+- Telegram
+- Substratum
+
+Fixes
+• PlayStore
+• G+
+• Google Contacts 3.4.6
+• YouTube 
+• Samsung theme store
+• Battery icon as options now
+• Moved the colored statusBar options
+• Various minor fixes & improvements
+
+RE.1143
+•  New custom battery icon for Samsung Oreo!
+•  Added spinner options 
+•  New Windows spinner animation
+•  New Status Bar notification animation! Available on this apps
+- PlayStore
+- Google Calendar
+- Gmail
+- Spotify
+- Instagram
+- WhatsApp
+- Telegram
+- Substratum
+
+Fixes
+• G+
+• Google contacts 3.4.6
+• YouTube 
+• Samsung theme store
+• Various minor fixes & improvements
+
+T.1121
+Updates & Improvements
+• Added new design for Android System overlay [Oreo]
+Animation checkbox, radio button, default button, dialog and spinner.
+• Substratum overlay
+• SystemUI
+• Gmail v.9
+• PlayStore
+• WhatsApp
+• Google+
+• Keep Notes
+• Various minor fixes & improvements
+
+T.1119
+Updates & Improvements
+• Added new design for Android System overlay [Oreo]
+Animation checkbox, radio button, default button, dialog and spinner.
+• Substratum overlay
+• SystemUI
+• Gmail v.9
+• PlayStore
+• WhatsApp
+• Google+
+• Keep Notes
+• Various minor fixes & improvements
+
+T.1118
+Updates & Improvements
+• Added new design for Android System overlay [Oreo]
+Animation checkbox, radio button, default button, dialog and spinner.
+• Substratum overlay
+• SystemUI
+• Gmail v.9
+• PlayStore
+• WhatsApp
+• Google+
+• Keep Notes
+• Various minor fixes & improvements
+
+T.1102
+• Make sure to select your Android version first
+• Check each overlay for options
+• Reboot after applying the overlay
+• Reapply when the apps updated
+• Join telegram group for support
+
+T.1094 
+• Make sure to select your Android version first
+• Check each overlay for options
+• Reboot after applying the overlay
+• Reapply when the apps updated
+• Join telegram group for support
+See changelog link for more info
+
+T.1075
+• Make sure to select your Android version first
+• Check each overlay for options
+• Reboot after applying the overlay
+• Reapply when the apps updated
+• Join telegram group for support
+See changelog link for more info
+
+T.1059
+• Make sure to select your Android version first
+• Check each overlay for options
+• Reboot after applying the overlay
+• Reapply when the apps updated
+• Join telegram group for support
+See changelog link for more info
+
+T.1008
+• Oreo and Nougat options
+(Make sure to select this, clean all overlay and reapply recommended)
+• Improvements on Android System overlay
+• Added more Samsung apps (See changelog)
+• Various minor fixes and improvements
+
+Update
+• WhatsApp
+• Google Keep
+• Google Tasks
+• YouTube
+
+Previously
+• Added Money Manager
+• Added Samsung Video
+• Added Clipboard
+• Added Google Drive
+• Added MX Player
+• Added Google Duo
+
 T.98x
 - Oreo and Nougat options 
 (Make sure to select this, clean all overlay and reapply recommended)
