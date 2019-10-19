@@ -1,131 +1,64 @@
 ========================
-CHANGELOG
+AVAILABLE OVERLAYS
 ========================
-G.1443
-New
-• Added Money Manager
-• Added Google Drive
-• Added MX Player
-
-Fixes
-• WhatsApp 2.18.327
-• Minor fix to Keep, Tasks and G+
-
-G.1435
-Major update
-- Fixes Google Keep Notes 5.0
-- Fixes Google News (Enable Dark Mode)
-- Added Google Duo
-- Default statusBar to Cyberpunk
-- Various fixes and improvements to
-(Google Play, Google Tasks, YouTube, Hangouts, Gmail, Instagram, Substratum)
-
-3.1399
-- Fixes WhatsApp to 2.18.306
-- Fixes AOSP Messaging navBar
-- Fixes Google Messaging 3.6 (Enable Dark Mode)
-- Fixes Google Calculator 7.5
-- Fixes Google Contact 3.0.7
-- Fixes Google Dialer v24
-- Fixes WellBeing
-- Added Magisk (Enable Dark Mode)
-- Added Trebuchet Launcher
-- Added Pixel Launcher
-
-3.1350
-- Change default accent and fix various overlay accent
-- Minor fix to PackageInstaller, NavBar and Substratum overlay 
-- Notification options
-
-3.1342
-- Revert app icon
-- Updated WhatsApp to 2.18.277
-- Updated Google News to 5.4.0
-- Updated Google Messaging to 3.5.0
-- Updated Gmail to 8.8.26
-- Updated YouTube to 13.36.50
-- Minor fix to Oreo framework
-- Various minor fixes
-
-3.0.1333
-- Android Pie Support!
-- Updated WhatsApp overlays
-- Updated Google Phone v23
-- Updated Google Contacts 3.0.6
-- Updated Google Inbox
-- Updated Google Magazines
-- Updated YouTube
-- New heroimage
-- Various minor improvements
-- Adjustment in Oreo and Nougat framework
-- Fixes Launcher 3
-- Fixes Google Phone
-- Fixes YouTube
-- Fixes PlayStore overlay
-- Google Contacts 3.0 as default
-- Revamp welcome dialog
-
-========================
-OVERLAYS LIST
-========================
-• Android Framework
-• Bluetooth
+• Android System (Framework)
+• Adaway
 • Browser
-• Calculator
-• Calendar
+• Calculator AOSP
+• Calendar AOSP
 • CellBroadcast
-• Clock
-• Contacts
-• DU About
-• DU CalendarWidget
-• DU Tweaks
-• DU Updater
-• Dialer
-• Documents UI (Files)
-• Gallery
+• Contacts AOSP
+• Clock AOSP
+• Dialer AOSP 
+• Documents UI/Files AOSP
+• Digital Wellbeing
+• ePSXe 
+• Gallery AOSP
+• Gboard
 • Gmail
-• Gms
+• Google Play Service
 • Google Authenticator
 • Google Calculator
 • Google Calendar
 • Google Clock
 • Google Contacts
 • Google Dialer
+• Google Duo
 • Google Drive
+• Google Files
+• Google Gallery Go
 • Google Inbox
 • Google Keep
 • Google Messaging
+• Google News
 • Google Photos
 • Google Play Music
 • Google Play Store
-• Google Plus
+• Google Play Games
+• Google Translate
 • Instagram
+• Keyboard AOSP
 • KLWP
 • KWGT
 • Launcher3
+• Magisk
+• Material Reboot
 • Media Providers
 • Messaging
-• Mms
-• MusicFX
+• Microsoft Edge
+• Microsoft Outlook
+• Microsoft To Do
 • Nova Launcher
-• Omni Clock
-• Omni Switch
-• Oneplus Backup
-• Oneplus Calculator
-• Samsung Calendar
-• Oneplus DeskClock
-• Oneplus Firemanager
-• Oneplus Launcher
-• Oneplus Note
-• Oneplus Security
 • PackageInstaller
 • Settings
 • Substratum
 • System UI
-• StatusBar
-• NavigationBar
-• Telecom
+• System UI StatusBar
+• System UI QuickSettings
+• System UI NavigationBar
+• Spotify
+• Telegram
+• Trebuchet
 • VLC
 • WhatsApp
-• XDA Labs
-• Youtube.
+• Youtube
